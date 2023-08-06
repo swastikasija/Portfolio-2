@@ -1,0 +1,38 @@
+.flex{
+    display: flex;
+    align-items: center;
+}
+.center{
+    text-align: center;
+}
+.grey{
+    color: #758398;
+}
+section{
+    margin-top: 70px;
+}
+.font-big{
+    font-size: 2.7rem;
+}
+.text-none{
+    text-decoration: none;
+}
+.font-borel{
+    font-family: 'Borel';
+}
+.color-yellow{
+    color: rgb(255, 174, 0);
+}
+.flex-center{
+    justify-content: center;
+}
+.black{
+    color: black;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+.space-evenly{
+    justify-content: space-evenly;
+}
